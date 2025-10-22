@@ -1,0 +1,4 @@
+- ToDo Ekleme
+- ToDo Düzenleme, Silmek
+- ToDo CheckBox
+- Arama
